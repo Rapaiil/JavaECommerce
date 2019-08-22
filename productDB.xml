@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.1" class="java.beans.XMLDecoder">
+ <string>Updated as of 02:55:57 PM August 16, 2019</string>
+ <string>PROD001</string>
+ <string>Lemon</string>
+ <string>Yellow lemons fresh from Baguio</string>
+ <float>35.0</float>
+ <int>15</int>
+ <string>images/Lemon.jpg</string>
+ <string>PROD002</string>
+ <string>Apple</string>
+ <string>Red Washington apples</string>
+ <float>28.0</float>
+ <int>15</int>
+ <string>images/Apple.jpg</string>
+ <string>PROD003</string>
+ <string>Orange</string>
+ <string>Oranges grew in the heart of China</string>
+ <float>32.0</float>
+ <int>15</int>
+ <string>images/Orange.jpg</string>
+ <string>PROD004</string>
+ <string>Banana</string>
+ <string>&quot;Lakatan&quot; bananas from the Quezon province</string>
+ <float>26.5</float>
+ <int>15</int>
+ <string>images/Banana.jpg</string>
+ <string>PROD005</string>
+ <string>Grapefruit</string>
+ <string>Grapefruits delivered from Taiwan</string>
+ <float>30.0</float>
+ <int>15</int>
+ <string>images/Grapefruit.jpg</string>
+ <string>PROD006</string>
+ <string>Raspberry</string>
+ <string>Reddish raspberry straight from California farms</string>
+ <float>44.0</float>
+ <int>15</int>
+ <string>images/Raspberry.jpg</string>
+ <string>PROD007</string>
+ <string>Cherry</string>
+ <string>Red cherries</string>
+ <float>38.0</float>
+ <int>15</int>
+ <string>images/Cherry.jpg</string>
+ <string>PROD008</string>
+ <string>Grapes</string>
+ <string>Purple grapes</string>
+ <float>37.0</float>
+ <int>15</int>
+ <string>images/Grapes.jpg</string>
+ <string>PROD009</string>
+ <string>White grape</string>
+ <string>White grapes from California farms</string>
+ <float>40.0</float>
+ <int>15</int>
+ <string>images/White grape.jpg</string>
+ <string>PROD010</string>
+ <string>Strawberry</string>
+ <string>Pink-reddish strawberries from Baguio farms</string>
+ <float>50.0</float>
+ <int>12</int>
+ <string>images/Strawberry.jpg</string>
+ <string>PROD011</string>
+ <string>Avocado</string>
+ <string>Green avocados pefect for guacamoles</string>
+ <float>36.5</float>
+ <int>15</int>
+ <string>images/Avocado.jpg</string>
+ <string>PROD012</string>
+ <string>Watermelon</string>
+ <string>Green watermelons</string>
+ <float>38.0</float>
+ <int>12</int>
+ <string>images/Watermelon.jpg</string>
+</java>
