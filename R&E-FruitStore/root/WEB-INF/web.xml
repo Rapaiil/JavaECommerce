@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>R&amp;E-FruitStore</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  <context-param>
+    <param-name>jdbcClass</param-name>
+    <param-value>com.mysql.cj.jdbc.Driver</param-value>
+  </context-param>
+  <context-param>
+    <param-name>jdbcUrl</param-name>
+    <param-value>jdbc:mysql://localhost:3306/fruitstore</param-value>
+  </context-param>
+  <context-param>
+    <param-name>dbUserGeneral</param-name>
+    <param-value>QPaqHVKhoRDOFFIeQjr2Bg==</param-value>
+  </context-param>
+  <context-param>
+    <param-name>dbPassGeneral</param-name>
+    <param-value>jC1wSDGG0l09qwOwVjjN7Q==</param-value>
+  </context-param>
+  <context-param>
+    <param-name>dbUserFeliciano</param-name>
+    <param-value>QPaqHVKhoRDOFFIeQjr2Bg==</param-value>
+  </context-param>
+  <context-param>
+    <param-name>dbPassFeliciano</param-name>
+    <param-value>kN/vKuup4SbQOfp9ol+pkA==</param-value>
+  </context-param>
+</web-app>
